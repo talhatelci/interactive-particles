@@ -7,23 +7,23 @@ https://github.com/talhatelci/interactive-particles/assets/94738965/ced2b75c-979
 ## Run Demo Locally
 
 ```bash
-  git clone https://github.com/talhatelci/interactive-particles
+git clone https://github.com/talhatelci/interactive-particles
 ```
 
 Go to the project directory
 
 ```bash
-  cd interactive-particles
+cd interactive-particles
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run dev
+npm run dev
 ```
